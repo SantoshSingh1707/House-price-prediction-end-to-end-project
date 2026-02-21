@@ -4,7 +4,7 @@ from steps.feature_engineering_step import feature_engineering_step
 from steps.outlier_detection_step import outlier_detection_step
 from steps.data_splitter_step import data_splitter_step
 from steps.model_building_step import model_building_step
-from steps.model_evaluator_step import model_evalautor_step
+from steps.model_evaluator_step import model_evaluator_step
 
 from zenml import Model,pipeline,step
 @pipeline(
@@ -27,7 +27,7 @@ def ml_pipeline():
 
     model = model_building_step(X_train,y_train)
 
-    evalaution_metrics,mse = model_evalautor_step(trained_model = model , X_test=X_test,y_test=y_test)
+    evaluation_metrics, mse = model_evaluator_step(trained_model = model , X_test=X_test,y_test=y_test)
     return model
 
 if __name__=="__main__":

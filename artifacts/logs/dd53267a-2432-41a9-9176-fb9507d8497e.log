@@ -1,0 +1,5 @@
+{"message":"Applying the same preprocessing to the test data","name":"unknown","level":20,"timestamp":"2026-02-21T12:30:32.165713Z","chunk_index":0,"total_chunks":1,"id":"cb2b8388-f4a8-4c7e-bd9e-670bba3b9097"}
+{"message":"Evaluating model using Selected model","name":"unknown","level":20,"timestamp":"2026-02-21T12:30:32.165713Z","chunk_index":0,"total_chunks":1,"id":"0bfac011-c3ed-40f7-a205-97f141e43a56"}
+{"message":"Predictiong using the train model","name":"unknown","level":20,"timestamp":"2026-02-21T12:30:32.165713Z","chunk_index":0,"total_chunks":1,"id":"22d8bf81-096a-4431-8664-7d9b72e6edab"}
+{"message":"Calculating evaluation metrics","name":"unknown","level":20,"timestamp":"2026-02-21T12:30:32.165713Z","chunk_index":0,"total_chunks":1,"id":"b5463fef-64f3-4a3a-bdc1-7429703cc2e2"}
+{"message":"Model evalution metrics :{'Mean Squared error': 0.010942367022909918, 'r2 Score': 0.9221139768594185}","name":"unknown","level":20,"timestamp":"2026-02-21T12:30:32.165713Z","chunk_index":0,"total_chunks":1,"id":"af3b3afe-208b-43d9-a5ec-84b9ae32b97a"}

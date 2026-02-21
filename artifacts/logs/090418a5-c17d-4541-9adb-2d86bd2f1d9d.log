@@ -1,0 +1,2 @@
+{"message":"Step `data_splitter_step` has started.","name":"unknown","level":20,"timestamp":"2026-02-21T12:30:27.148669Z","chunk_index":0,"total_chunks":1,"id":"572c79f0-414c-4c56-a7a0-3dfacdd5acc0"}
+{"message":"Step `data_splitter_step` has finished in `0.810s`.","name":"unknown","level":20,"timestamp":"2026-02-21T12:30:27.148669Z","chunk_index":0,"total_chunks":1,"id":"525111e3-dfc4-4365-b2f5-89c93571318c"}

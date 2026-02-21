@@ -1,0 +1,2 @@
+{"message":"Spliting data using selected strategy","name":"unknown","level":20,"timestamp":"2026-02-21T12:30:27.148669Z","chunk_index":0,"total_chunks":1,"id":"a0c51551-edc8-4005-a625-e7e23d90ef0b"}
+{"message":"Performing simple train-test split","name":"unknown","level":20,"timestamp":"2026-02-21T12:30:27.148669Z","chunk_index":0,"total_chunks":1,"id":"fd580186-cc35-49b3-a607-4120dfcc711b"}

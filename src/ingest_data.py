@@ -29,7 +29,7 @@ class ZipDataIngestor(DataIngestor):
 
         return df
     
-class DataIngestorFacorty:
+class DataIngestorFactory:
     @staticmethod
     def get_data_ingestor(file_extension:str)->DataIngestor:
         if file_extension == ".zip":

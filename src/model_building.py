@@ -46,5 +46,5 @@ class ModelBuilder:
         logging.info("Building and training the model using Selected strategy")
         return self.strategy.build_and_train_model(X_train,y_train)
 
-    if __name__=="__main__":
-        pass
+if __name__=="__main__":
+    pass

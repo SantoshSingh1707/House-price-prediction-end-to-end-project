@@ -28,7 +28,8 @@ Prerequisites
 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone House-price-prediction-end-to-end-project
+
 cd House-Price-prediction-End-to-End-Project
 ```
 
@@ -113,8 +114,3 @@ See the [LICENSE](LICENSE) file in this repository for license details.
 - Large artifacts and ML runs are placed under `artifacts/` and `mlruns_local/`; add them to `.gitignore` if you do not want to push them.
 
 ---
-
-If you want, I can also:
-
-- add a minimal `CONTRIBUTING.md` and `CODE_OF_CONDUCT.md`
-- add a GitHub Actions workflow badge and a simple `python -m pytest` workflow

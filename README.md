@@ -107,10 +107,3 @@ Maintained by the repository owners — please use GitHub Issues or Pull Request
 ## License
 
 See the [LICENSE](LICENSE) file in this repository for license details.
-
-## A note on data and artifacts
-
-- The dataset used in analysis is available under `extracted_data/AmesHousing.csv`.
-- Large artifacts and ML runs are placed under `artifacts/` and `mlruns_local/`; add them to `.gitignore` if you do not want to push them.
-
----

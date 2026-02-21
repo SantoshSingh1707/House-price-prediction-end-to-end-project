@@ -1,0 +1,11 @@
+{"message":"Initiating a new run for the pipeline: `inference_pipeline`.","name":"unknown","level":20,"timestamp":"2026-02-21T11:39:20.845225Z","chunk_index":0,"total_chunks":1,"id":"69425cf5-1efc-40a2-86a3-d5155d11ba01"}
+{"message":"Registered new pipeline: `inference_pipeline`.","name":"unknown","level":20,"timestamp":"2026-02-21T11:39:25.855128Z","chunk_index":0,"total_chunks":1,"id":"99d32553-d6d4-4097-a4e1-b3c910fd6e5f"}
+{"message":"Caching is disabled by default for `inference_pipeline`.","name":"unknown","level":20,"timestamp":"2026-02-21T11:39:25.855128Z","chunk_index":0,"total_chunks":1,"id":"05cac315-ea76-41bf-89ad-7caef049e168"}
+{"message":"Using user: `default`","name":"unknown","level":20,"timestamp":"2026-02-21T11:39:25.855128Z","chunk_index":0,"total_chunks":1,"id":"181802c0-0bd6-4e2b-ad36-a866d7db5238"}
+{"message":"Using stack: `project_stack`","name":"unknown","level":20,"timestamp":"2026-02-21T11:39:25.855128Z","chunk_index":0,"total_chunks":1,"id":"c9cbc73a-b652-4fd9-80b1-171c818b2960"}
+{"message":"  model_deployer: `mlflow_deployer`","name":"unknown","level":20,"timestamp":"2026-02-21T11:39:25.855128Z","chunk_index":0,"total_chunks":1,"id":"746aec6f-bfdd-4b7b-a3f3-79363cc1ace7"}
+{"message":"  experiment_tracker: `mlflow_tracker`","name":"unknown","level":20,"timestamp":"2026-02-21T11:39:25.855128Z","chunk_index":0,"total_chunks":1,"id":"4205c8e3-1306-4c54-a911-41f66fcd1c9e"}
+{"message":"  orchestrator: `local_orchestrator`","name":"unknown","level":20,"timestamp":"2026-02-21T11:39:25.855128Z","chunk_index":0,"total_chunks":1,"id":"e1173151-eb58-4cad-8f20-574021ca01be"}
+{"message":"  artifact_store: `local_artifact_store`","name":"unknown","level":20,"timestamp":"2026-02-21T11:39:25.855128Z","chunk_index":0,"total_chunks":1,"id":"8830f2f4-72e2-4796-85f5-196453980e99"}
+{"message":"You can visualize your pipeline runs in the `ZenML Dashboard`. In order to try it locally, please run `zenml login --local`.","name":"unknown","level":20,"timestamp":"2026-02-21T11:39:25.855128Z","chunk_index":0,"total_chunks":1,"id":"75b6e8c4-c48a-4df8-99ed-d831f09cc65d"}
+{"message":"An exception has occurred.","name":"unknown","level":40,"timestamp":"2026-02-21T11:39:28.410584Z","chunk_index":0,"total_chunks":1,"id":"def90661-8eda-4b7d-8c91-b147076c2a7b"}

@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Users\Santosh\Desktop\ML-Project-Deployment\MLOPS\House-Price-prediction-End-to-End-Project\artifacts\mlruns/645014528431196974/58c82eb535f94210a96136596da32085/artifacts
+end_time: 1771673084471
+entry_point_name: ''
+experiment_id: '645014528431196974'
+lifecycle_stage: active
+run_id: 58c82eb535f94210a96136596da32085
+run_name: continuous_deploymnet_pipeline-2026_02_21-11_24_36_171364
+run_uuid: 58c82eb535f94210a96136596da32085
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771673079169
+status: 3
+tags: []
+user_id: Santosh

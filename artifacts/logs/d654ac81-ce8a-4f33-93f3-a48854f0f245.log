@@ -1,0 +1,10 @@
+{"message":"Initiating a new run for the pipeline: `inference_pipeline`.","name":"unknown","level":20,"timestamp":"2026-02-21T11:57:33.110114Z","chunk_index":0,"total_chunks":1,"id":"cbed43ab-fddc-400f-b5b1-9994b0b55a52"}
+{"message":"Caching is disabled by default for `inference_pipeline`.","name":"unknown","level":20,"timestamp":"2026-02-21T11:57:33.110114Z","chunk_index":0,"total_chunks":1,"id":"7866fe22-433e-45c1-9806-fb0724dcbbbd"}
+{"message":"Using user: `default`","name":"unknown","level":20,"timestamp":"2026-02-21T11:57:33.110114Z","chunk_index":0,"total_chunks":1,"id":"c6e8972d-d629-49b7-9aec-61d3ee32b358"}
+{"message":"Using stack: `project_stack`","name":"unknown","level":20,"timestamp":"2026-02-21T11:57:33.110114Z","chunk_index":0,"total_chunks":1,"id":"0c0254ef-7482-4c66-b57e-584e2f5495b4"}
+{"message":"  model_deployer: `mlflow_deployer`","name":"unknown","level":20,"timestamp":"2026-02-21T11:57:33.110114Z","chunk_index":0,"total_chunks":1,"id":"3ef0c2a8-3609-4641-a64c-bb02cc9ef9ce"}
+{"message":"  experiment_tracker: `mlflow_tracker`","name":"unknown","level":20,"timestamp":"2026-02-21T11:57:33.110114Z","chunk_index":0,"total_chunks":1,"id":"802420dc-b763-43ec-a937-5473a7f2b54f"}
+{"message":"  orchestrator: `local_orchestrator`","name":"unknown","level":20,"timestamp":"2026-02-21T11:57:33.110114Z","chunk_index":0,"total_chunks":1,"id":"1d0de9f5-a278-4dbc-b5aa-31e79ae4c22e"}
+{"message":"  artifact_store: `local_artifact_store`","name":"unknown","level":20,"timestamp":"2026-02-21T11:57:33.110114Z","chunk_index":0,"total_chunks":1,"id":"75cd11cb-f90d-47f3-8b1e-3330a720f8ba"}
+{"message":"You can visualize your pipeline runs in the `ZenML Dashboard`. In order to try it locally, please run `zenml login --local`.","name":"unknown","level":20,"timestamp":"2026-02-21T11:57:33.110114Z","chunk_index":0,"total_chunks":1,"id":"81b1b683-7db4-4691-a8dc-4c20ed5a0ecb"}
+{"message":"An exception has occurred.","name":"unknown","level":40,"timestamp":"2026-02-21T11:57:44.010243Z","chunk_index":0,"total_chunks":1,"id":"0ca41448-7896-41d2-8ace-5d80a2ee77d5"}

@@ -1,0 +1,6 @@
+artifact_location: file:C:\Users\Santosh\Desktop\ML-Project-Deployment\MLOPS\House-Price-prediction-End-to-End-Project\artifacts\mlruns/645014528431196974
+creation_time: 1771672963050
+experiment_id: '645014528431196974'
+last_update_time: 1771672963050
+lifecycle_stage: active
+name: continuous_deploymnet_pipeline

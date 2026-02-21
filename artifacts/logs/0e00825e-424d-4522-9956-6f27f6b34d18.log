@@ -1,0 +1,14 @@
+{"message":"Initiating a new run for the pipeline: `continuous_deploymnet_pipeline`.","name":"unknown","level":20,"timestamp":"2026-02-21T11:38:10.683167Z","chunk_index":0,"total_chunks":1,"id":"9b783e48-1ffd-4890-8436-dfa6bfa7ee93"}
+{"message":"Using user: `default`","name":"unknown","level":20,"timestamp":"2026-02-21T11:38:10.683167Z","chunk_index":0,"total_chunks":1,"id":"92e5d3ea-602b-4ab1-ae46-3916beb3dd9e"}
+{"message":"Using stack: `project_stack`","name":"unknown","level":20,"timestamp":"2026-02-21T11:38:10.683167Z","chunk_index":0,"total_chunks":1,"id":"448ab3ef-1647-434f-88d1-0025ac5f9c2c"}
+{"message":"  model_deployer: `mlflow_deployer`","name":"unknown","level":20,"timestamp":"2026-02-21T11:38:10.683167Z","chunk_index":0,"total_chunks":1,"id":"8863a638-08cb-473e-acd1-cd63b71520e5"}
+{"message":"  experiment_tracker: `mlflow_tracker`","name":"unknown","level":20,"timestamp":"2026-02-21T11:38:10.683167Z","chunk_index":0,"total_chunks":1,"id":"bac16cd9-ede2-40a2-8203-42fbb4679db3"}
+{"message":"  orchestrator: `local_orchestrator`","name":"unknown","level":20,"timestamp":"2026-02-21T11:38:10.683167Z","chunk_index":0,"total_chunks":1,"id":"ae54b19c-2ce8-481f-9cdd-b40d44539f21"}
+{"message":"  artifact_store: `local_artifact_store`","name":"unknown","level":20,"timestamp":"2026-02-21T11:38:10.683167Z","chunk_index":0,"total_chunks":1,"id":"ffc5d1a6-6a73-4b1c-9363-30ef8230f094"}
+{"message":"You can visualize your pipeline runs in the `ZenML Dashboard`. In order to try it locally, please run `zenml login --local`.","name":"unknown","level":20,"timestamp":"2026-02-21T11:38:10.683167Z","chunk_index":0,"total_chunks":1,"id":"ec37cef7-3151-429f-bdd8-a6d88a3586db"}
+{"message":"Using cached version of step `data_ingestion_step`.","name":"unknown","level":20,"timestamp":"2026-02-21T11:38:10.683167Z","chunk_index":0,"total_chunks":1,"id":"e916e639-5592-463c-a753-9e9f5e5aada2"}
+{"message":"Using cached version of step `handle_missing_values_step`.","name":"unknown","level":20,"timestamp":"2026-02-21T11:38:10.683167Z","chunk_index":0,"total_chunks":1,"id":"bd3a6667-d56b-4fc5-8372-44550ab76d0f"}
+{"message":"Using cached version of step `feature_engineering_step`.","name":"unknown","level":20,"timestamp":"2026-02-21T11:38:10.683167Z","chunk_index":0,"total_chunks":1,"id":"baab9d24-ca47-402f-93d4-bdc8927d9b80"}
+{"message":"Using cached version of step `outlier_detection_step`.","name":"unknown","level":20,"timestamp":"2026-02-21T11:38:10.683167Z","chunk_index":0,"total_chunks":1,"id":"f0b7d9e2-8cf2-4fd8-a604-c16a6a477de4"}
+{"message":"Using cached version of step `data_splitter_step`.","name":"unknown","level":20,"timestamp":"2026-02-21T11:38:10.683167Z","chunk_index":0,"total_chunks":1,"id":"8d93ba64-d7ad-49d9-a0ca-53761e634d39"}
+{"message":"Pipeline run has finished in `1m11s`.","name":"unknown","level":20,"timestamp":"2026-02-21T11:39:20.273509Z","chunk_index":0,"total_chunks":1,"id":"f6bd63ff-d62b-4b8e-ad71-241f95121d56"}

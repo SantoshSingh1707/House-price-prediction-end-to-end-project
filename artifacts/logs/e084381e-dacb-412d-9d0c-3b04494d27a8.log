@@ -1,0 +1,8 @@
+{"message":"Initiating a new run for the pipeline: `ml_pipeline`.","name":"unknown","level":20,"timestamp":"2026-02-21T10:36:58.403671Z","chunk_index":0,"total_chunks":1,"id":"bd367adc-2a5f-47f8-b29f-81e92604b839"}
+{"message":"Using user: `default`","name":"unknown","level":20,"timestamp":"2026-02-21T10:36:58.403671Z","chunk_index":0,"total_chunks":1,"id":"6d49c2fb-270e-401d-b3c0-4c62dc0fc65c"}
+{"message":"Using stack: `project_stack`","name":"unknown","level":20,"timestamp":"2026-02-21T10:36:58.403671Z","chunk_index":0,"total_chunks":1,"id":"0ab1dc24-67f9-490e-8d4b-f4889cc94eb9"}
+{"message":"  experiment_tracker: `local_mlflow_tracker`","name":"unknown","level":20,"timestamp":"2026-02-21T10:36:58.403671Z","chunk_index":0,"total_chunks":1,"id":"59b38cc5-4f27-4a60-9ac8-23d9ab147047"}
+{"message":"  orchestrator: `local_orchestrator`","name":"unknown","level":20,"timestamp":"2026-02-21T10:36:58.403671Z","chunk_index":0,"total_chunks":1,"id":"291c67d2-3ebb-4532-9e71-41d2bc6c80c5"}
+{"message":"  artifact_store: `local_artifact_store`","name":"unknown","level":20,"timestamp":"2026-02-21T10:36:58.403671Z","chunk_index":0,"total_chunks":1,"id":"c5d87823-702e-4e6b-adb1-484d00399595"}
+{"message":"You can visualize your pipeline runs in the `ZenML Dashboard`. In order to try it locally, please run `zenml login --local`.","name":"unknown","level":20,"timestamp":"2026-02-21T10:36:58.403671Z","chunk_index":0,"total_chunks":1,"id":"83b73ffd-dc13-4258-b191-fce0d6077411"}
+{"message":"Pipeline run has finished in `13.283s`.","name":"unknown","level":20,"timestamp":"2026-02-21T10:37:10.777383Z","chunk_index":0,"total_chunks":1,"id":"b7c1feca-4d30-4983-b2b9-1eaf76ba7c53"}

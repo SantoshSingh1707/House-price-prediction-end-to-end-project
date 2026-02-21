@@ -1,0 +1,4 @@
+{"message":"Models can be viewed in the dashboard using ZenML Pro. Sign up for a free trial at https://www.zenml.io/pro/","name":"unknown","level":20,"timestamp":"2026-02-21T11:58:33.392372Z","chunk_index":0,"total_chunks":1,"id":"7fa465c5-c237-4cd7-ba19-b99e9b050b63"}
+{"message":"Models can be viewed in the dashboard using ZenML Pro. Sign up for a free trial at https://www.zenml.io/pro/","name":"unknown","level":20,"timestamp":"2026-02-21T11:58:33.392372Z","chunk_index":0,"total_chunks":1,"id":"d9d80d13-eb21-461f-b58a-8b897397c702"}
+{"message":"Step `model_building_step` has started.","name":"unknown","level":20,"timestamp":"2026-02-21T11:58:33.392372Z","chunk_index":0,"total_chunks":1,"id":"b198e4ca-546b-4322-b71d-007985efba9a"}
+{"message":"Step `model_building_step` has finished in `4.832s`.","name":"unknown","level":20,"timestamp":"2026-02-21T11:58:38.413573Z","chunk_index":0,"total_chunks":1,"id":"b0a0536b-7125-4944-9d5a-8443667af4f9"}

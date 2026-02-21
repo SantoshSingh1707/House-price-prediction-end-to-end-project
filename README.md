@@ -28,7 +28,7 @@ Prerequisites
 1. Clone the repository
 
 ```bash
-git clone House-price-prediction-end-to-end-project
+git clone https://github.com/SantoshSingh1707/House-price-prediction-end-to-end-project
 
 cd House-Price-prediction-End-to-End-Project
 ```
